@@ -33,7 +33,7 @@ color: #4d5ae5;
 
 .menu-elements {
 
-display: flex;
+/*display: flex;*/
 flex-direction: column;
 background: #ffffff;
 text-align:  center;
@@ -78,9 +78,9 @@ font-style: normal;
 /* <!-- Section-1 --> */
 
 .box-hero-image {
-box-sizing: content-box;
-width: 1440px;
-height: 600px;
+/*box-sizing: content-box;*/
+/*width: 1440px;
+height: 600px;*/
 background: #2e2f42;
 }
 
@@ -171,14 +171,14 @@ text-align: center;
 color: #2e2f42;
 }
 
-.position {
+/*.position {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
-}
+}*/
 
 /* <!-- Sektion-4 --> */
 .our-portfolio {
