@@ -79,8 +79,8 @@ font-style: normal;
 
 .box-hero-image {
 /*box-sizing: content-box;*/
-/*width: 1440px;
-height: 600px;*/
+width: 1440px;
+height: 600px;
 background: #2e2f42;
 }
 
@@ -118,8 +118,8 @@ background: #2e2f42;
 /* <!-- Section-2 --> */
 
 .light-bg {
-/*  width: 1440px;
-  height: 732px; */
+  width: 1440px;
+  height: 732px; 
 }
 
 .advantages {
@@ -171,7 +171,7 @@ text-align: center;
 color: #2e2f42;
 }
 
-.role {
+.position {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
